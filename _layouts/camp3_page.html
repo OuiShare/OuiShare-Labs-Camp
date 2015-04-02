@@ -1,8 +1,31 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head></head>
+{% include head.html %}
 
   <body>
+  	{% include navbar_page.html %}
+    <section id="services" class="page">
+      <div class="container">
+        <div class="content text-center">
+          <div class="heading">
+            <h2>{{ page.title }}</h2>
+            <div class="border"></div>
+            {% if page.description %}
+            <p>{{ page.description }}</p>
+            {% endif %}
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+              <div class="text-left">
+            	{{ content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>  	
     
+
+    {% include footer.html %}
   </body>
 </html>
