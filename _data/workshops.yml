@@ -1,0 +1,56 @@
+- title: Migration formats
+  id: migformats
+  fai: fa-random
+  description: > 
+    How to have a common way to describe an app and its data in the cloud? 
+    How to facilate migration of cloud softwre among service providers? 
+
+- title: CryptoParty
+  id: cryptoparty
+  fai: fa-shield
+  description: > 
+    Attend a CryptoParty to learn and teach how to use basic cryptography 
+    tools. People bring their computers, mobile devices, and a willingness 
+    to learn!
+
+- title: IndieWebCamp
+  id: indiewebcamp
+  fai: fa-globe
+  description: > 
+    Are you building your own website? Indie reader? 
+    Personal publishing web app? Or some other digital magic-cloud proxy? 
+    If so, come on by and join a gathering of people with like-minded 
+    interests. 
+
+- title: Decentralized Sharing Working Group
+  id: dswg
+  fai: fa-share-alt
+  description: > 
+    How to offer the best user experience among free software? 
+    How do we manage to achieve interoperability 
+    with the tools we love?
+
+- title: Wikidata
+  id: wikidata
+  fai: fa-barcode
+  description: >
+    How to work with wikidata and how to extend it to non-encyclopedic entities? 
+    How to make the use of Inventaire.io contribute back to wikidata?
+
+- title: Linked Data &amp; Semantic Web
+  id: ld
+  fai: fa-chain
+  description: >
+    How can one build a distributed secure social web using only 
+    Web Standards such HTTP, TLS, Linked Data and JavaScript? 
+    As on previous occasions, we have Linked Data workgroup present in the Labs Camp!
+
+
+- title: You?
+  id: you
+  fai: fa-users
+  description: >
+    Interested in offering a workshop? <br/>
+    Write down a title, short description, problems you want to solve, 
+    and a list of other actors you'd like to work with, <br/>and
+    <a href="mailto:labs@ouishare.net"><strong>get in touch with us</strong></a>!

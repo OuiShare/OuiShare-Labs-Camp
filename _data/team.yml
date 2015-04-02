@@ -1,0 +1,35 @@
+- name: Auli Kütt
+  id: auli
+  image: auli.jpg
+  role: Coordination
+  meta: >
+    Decentralization and IndieWeb (h)activist, OuiShare Labs Connector.
+  twitter_username: kirilind
+  github_username: kirilind
+  googleplus_username: 
+  stream_url: http://kirilind.me
+  facebook_url: http://facebook.com/haldjas
+  linkedin_url: 
+
+- name: Pierre Ozoux
+  id: pierre
+  image: pierre.jpg
+  role: Program
+  meta: Defending Internet Freedom | devops | setting up IndieHosters
+  email: pierre@ozoux.net
+  twitter_username: pierreozoux
+  github_username: pierreozoux
+  googleplus_username: 
+  stream_url: http://pierre-o.net
+  facebook_url:
+  linkedin_url:
+
+- name: André Reinald
+  id: andre
+  role: Program &amp; Concept
+  meta: >
+    Software engineer at Mozilla, 
+    attempting to fix the Internet with Peer Storage.
+  website: http://peerstorage.org
+
+

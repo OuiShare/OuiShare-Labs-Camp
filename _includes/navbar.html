@@ -1,0 +1,64 @@
+    <div id="navbar-top">
+      <nav class="navbar navbar-default navbar-static" role="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand nav-external" href="#home">{{ site.title }}</a>
+          </div>
+          <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+              {% if site.section_home_slider_menu %}
+              <li class="active">
+                <a href="#home">{{ site.section_home_slider_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_workshops_menu %}
+              <li>
+                <a href="#services">{{ site.section_workshops_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_speakers_menu %}
+              <li>
+                <a href="#speakers">{{ site.section_speakers_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_apps_menu %}
+              <li>
+                <a href="#apps">{{ site.section_apps_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_projects == true %}
+              <li>
+                <a href="#work">{{ site.section_projects_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_clients_menu %}
+              <li>
+                <a href="#clients">{{ site.section_clients_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_team_menu %}
+              <li>
+                <a href="#about">{{ site.section_team_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_contact_menu %}
+              <li>
+                <a href="#contact">{{ site.section_contact_menu }}</a>
+              </li>
+              {% endif %}
+              {% if site.section_map_menu %}
+              <li>
+                <a href="#location">{{ site.section_map_menu }}</a>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>

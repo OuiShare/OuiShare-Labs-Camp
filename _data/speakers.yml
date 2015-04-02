@@ -1,0 +1,86 @@
+- name: Ben Werdmüller
+  id: ben
+  role: Known / Elgg
+  meta: >
+    Co-founder and CEO of Known, helping everyone publish to their own site. 
+    He has worked on open software for over a decade, co-founded Elgg, 
+    and was the first Geek in Residence at the Edinburgh Festivals.
+  twitter_username: benwerd
+  stream_url: http://werd.io/
+  linkedin_url:
+  website: http://benwerd.com
+
+- name: Primavera De Filippi
+  id: primavera
+  role: Harvard Berkman Center
+  meta: >
+    Research fellow at the Berkman Center for 
+    Internet &amp; Society at Harvard Law School, 
+    Primavera is investigating the legal challenges of 
+    “governance-by-design” in online distibuted architectures, 
+    such as Bitcoin, Ethereum etc.
+
+- name: Henry Story
+  id: henry
+  role: Co-Operating Systems
+  meta: >
+    Studied philosophy at Kings College London, and Computing at 
+    Imperial College london. Worked at AltaVista on the BabelFish machine 
+    translation engine, Researched the Semantic Web at Sun Microsystems.
+  twitter_username: bblfish
+  github_username: bblfish
+  stream_url: 
+  linkedin_url:
+  website: http://bblfish.net
+
+
+- name: Erin Jo Richey
+  id: erin
+  role: Known / Eidyia
+  meta: > 
+    Erin is Chief Experience Officer and co-founder of Known. 
+    Previously, she was an independent UX 
+    consultant, working on the design, architecture, and usability of 
+    products for startups and enterprises like eBay, Microsoft, and Intel. 
+  twitter_username: erinjo
+  stream_url: http://erinjo.is/
+  linkedin_url:
+  website: 
+
+
+
+- name: Maxime Lathuilière
+  id: maxlath
+  role: Inventaire.io / P2P-RM / OuiShare Labs
+  meta: >
+    Walking the path toward an economy empowering citizens with open knowledge. 
+    • Prototyping Inventaire.io • #VRM #WebOfData #wikidata #JS
+  twitter_username: maxlath
+  website: http://maxlath.eu/
+
+- name: Jutta Steiner
+  id: jutta
+  role: Ethereum / Provenance
+  meta: 
+
+- name: Nick Lambert
+  id: nick
+  role: MaidSafe
+  meta: >
+    
+  twitter_username: N1ckLambert
+  stream_url: 
+  linkedin_url:
+  website: http://t.co/bOtTamA7KV
+
+- name: Matan Field
+  id: matan
+  role: La Zooz
+  meta: >
+    Theoretical physicist and entrepreneur, dedicated to connect 
+    science and technology with society and humanities, 
+    economics and the environment.
+  twitter_username: 
+  stream_url: 
+  linkedin_url:
+  website: http://lazooz.org/

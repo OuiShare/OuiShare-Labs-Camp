@@ -1,0 +1,106 @@
+# Site settings
+title: OuiShare Labs Camp &num;3
+subtitle: 18 - 19 May at Mozilla Paris
+description: > # this means to ignore newlines until "baseurl:"
+  OuiShare Labs Camp is a participative conference dedicated 
+  to open web technologies. 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://camp.ouisharelabs.net" # the base hostname & protocol for your site
+
+# Contacts
+email: labs@ouishare.net
+phone: 
+
+# Social media usernames
+github_username:  ouisharelabs
+googleplus_username:  
+twitter_username: ouisharelabs
+
+#Social media full urls
+facebook_url:  http://facebook.com/ouisharelabs
+linkedin_url: 
+withknown_url: http://stream.ouisharelabs.net # URL of your Known feed
+
+# Analytics
+google_analytics_id: UA-48369080-3
+
+# Build settings
+markdown: kramdown
+
+# Gems
+gems:
+  - jekyll-redirect-from
+
+
+
+
+# sections
+# section_home_slider
+section_home_slider: true
+section_home_slider_menu: Home
+section_home_slider_title: OuiShare Labs Camp &num;3 
+section_home_slider_subtitle: 18 - 19 May 2015 at Mozilla Paris
+section_home_slider_button: Show me more! 
+section_home_slider_text: > 
+  Participative conference dedicated to 
+  open web technologies
+  
+
+
+# section_about ->> SPEAKERS
+section_speakers: true
+section_speakers_menu: Who?
+section_speakers_title: Speakers &amp; Participants
+section_speakers_text: 
+
+
+# section_services ->> WORKSHOPS
+section_workshops: true
+section_workshops_menu: What?
+section_workshops_title: Workshops &amp; discussion clusters
+section_workshops_text: > 
+  The third edition of OuiShare Labs Camp brings together 
+  app and platform creators and service providers 
+  to discuss and work on ways to empower web users and 
+  give them back the ownership of their private data. 
+
+# section_work ->> PROJECTS
+section_projects: 
+section_projects_menu: Projects
+section_projects_title: Participating projects
+section_projects_text: > 
+  
+# section_apps ->> Worskhops template
+section_apps: true
+section_apps_menu: Projects
+section_apps_title: Participating projects
+section_apps_text: > 
+  
+
+# section_clients
+section_clients: 
+section_clients_menu: 
+
+
+
+# section_about ->> TEAM
+section_team: true
+section_team_menu: Team
+section_team_title: Brought to you by
+section_team_text: 
+
+
+# section_contact
+section_contact: 
+section_contact_menu: 
+section_contact_title: section_contact_title
+section_contact_text: section_contact_text
+
+# section_map
+section_map: 
+section_map_menu: Location
+
+
+
+

@@ -1,0 +1,42 @@
+    <section id="clients" class="page">
+      <div class="container">
+        <div class="content text-center">
+          <div class="row">
+            <div class="col-lg-12 animated hiding" data-animation="fadeInDown">
+              <div id="testimonials" class="carousel slide">
+                <ol class="carousel-indicators">
+                  <li data-target="#testimonials" data-slide-to="0" class="active"></li>
+                  <li data-target="#testimonials" data-slide-to="1" class=""></li>
+                  <li data-target="#testimonials" data-slide-to="2" class=""></li>
+                  <li data-target="#testimonials" data-slide-to="3" class=""></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <p class="quote">Quisque convallis diam ligula, ac accumsan eros pretium vel. Curabitur convallis nibh sit amet iaculis ornare. Integer blandit quis diam sed tincidunt.</p>
+                    <p class="client">John Doe / CEO</p>
+                  </div>
+
+                  {% for client in site.data.clients %}
+                  <div class="item">
+                    <p class="quote">{{ client.quote }}</p>
+                    <p class="client">{{ client.author }}</p>
+                  </div>
+                  {% endfor %}
+
+                  <!-- <div class="item">
+                    <p class="quote">Curabitur in nulla et lorem varius convallis. Morbi bibendum purus at leo laoreet, vel ultricies orci viverra. Duis quis accumsan urna. Nulla faucibus mauris elit, vitae tristique nisi sollicitudin ut.</p>
+                    <p class="client">Gandalf Kadir / Web Designer</p>
+                  </div>
+                  <div class="item">
+                    <p class="quote">Nullam vel tempor quam, id dictum eros. Nam augue sem, aliquam ac mauris in, pharetra convallis quam. Nulla faucibus mauris elit, vitae tristique nisi sollicitudin ut. Vivamus pretium nisi semper sapien eleifend.</p>
+                    <p class="client">Homeros Yehudi / QA Engineer</p>
+                  </div> -->
+                </div>
+                <a class="left carousel-control" data-slide="prev" href="#testimonials">&lsaquo;</a>
+                <a class="right carousel-control" data-slide="next" href="#testimonials">&rsaquo;</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+    <div class="loader">
+      <div class="fading-line"></div>
+    </div>
+{% if site.section_home_slider == true %} 
+  {% include section_home_slider.html %}
+{% endif %}
+
+  {% include navbar.html %}
+
+<!-- Content // Sections -->
+{% if site.section_workshops == true %} 
+  {% include camp3/section_workshops.html %}
+{% endif %}
+
+{% if site.section_speakers == true %} 
+  {% include section_speakers.html %}
+{% endif %}
+
+{% if site.section_apps == true %} 
+  {% include camp3/section_apps.html %}
+{% endif %}
+
+{% if site.section_projects == true %} 
+  {% include section_projects.html %}
+{% endif %}
+
+{% if site.section_clients == true %}  
+  {% include section_clients.html %}
+{% endif %}
+ 
+ {% if site.section_team == true %} 
+  {% include section_team.html %}
+{% endif %}
+
+{% if site.section_map == true %} 
+  {% include section_map.html %}
+{% endif %}
+
+{% if site.section_contact == true %} 
+  {% include section_contact.html %}
+{% endif %}
+
+<!-- // Sections end -->
+
+
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,123 @@
+- name: CozyCloud
+  id: cozycloud
+  image: cozycloud.svg
+  twitter_username: mycozycloud
+  website: http://cozy.io
+  source: https://github.com/cozy/cozy-setup
+  tags: platform
+  meta: A Personal Cloud you can host, customize and fully control. Sync your contacts, calendars and files between your devices and your personal server. Add your own services to leverage your personal data.
+
+- id: indiewebcamp
+  name: IndieWebCamp
+  image: indiewebcamp.svg
+  website: http://indiewebcamp.com/
+  source: 
+  tags: community
+  meta: The IndieWeb is a people-focused alternative to the 'corporate web'. Your content is yours. When you post something on the web, it should belong to you, not a corporation.
+
+- id: indiehosters
+  name: IndieHosters
+  image: indiehosters.svg
+  website: https://indiehosters.net/
+  source: https://github.com/indiehosters/
+  tags: service
+  meta: We are one place to manage your digital life. We offer a personal managed server for you, your familly or your organisation.
+
+- id: sandstorm
+  name: Sandstorm
+  image: sandstorm.svg
+  website: https://sandstorm.io/
+  source: https://github.com/sandstorm-io/sandstorm
+  tags: platform
+  meta: Sandstorm is an open source platform for personal servers.
+
+- id: known
+  name: Known
+  image: known.png
+  website: http://withknown.com
+  source: https://github.com/idno
+  tags: platform service app
+  meta: Known is a simple, social publishing platform for your blog or website.
+
+- id: freedombox
+  name: FreedomBox
+  image: freedombox.png.svg
+  website: http://freedomboxfoundation.org/
+  source: 
+  tags: platform device home-server peer-to-peer
+  meta: The FreedomBox is a personal server for your home, designed to give you back control over your identity, personal data, and communication.
+
+- id: remotestorage
+  name: RemoteStorage
+  image: remotestorage.svg
+  website: https://remotestorage.io
+  source: https://github.com/remotestorage/remotestorage.js/
+  tags: platform service
+  meta: Develop your web app without worrying about hosting or even developing the backend for it, your users will connect their own backend at runtime.
+
+- id: lazooz
+  name: La'Zooz
+  image: lazooz.png
+  website: http://lazooz.org
+  source:
+  tags: app platform
+  meta: La'Zooz is a Decentralized Transportation Platform that is owned by the community which turns vehicles' unused space into smart transportation solutions.
+
+- id: yunohost
+  name: YunoHost
+  image: yunohost.png
+  website: https://yunohost.org/
+  source:
+  tags: platform hosting
+  meta: YunoHost is a server operating system aiming to make self-hosting accessible to everyone.
+
+- id: framasoft
+  name: Framasoft
+  image: framasoft.svg
+  website: http://www.framasoft.net/
+  source:
+  tags: platform hosting community
+  meta: An association dedicated to promoting libre software. They also offer to unGoogle the Internet!
+
+- id: olympe
+  name: Olympe
+  image: olympe.png
+  website: https://www.olympe.in/
+  source:
+  tags: hosting
+  meta: Solidarity and innovation. Free hosting service without ad and web applications.
+
+- id: internetbrique
+  name: Internet's Brique
+  image: brique.png
+  website: http://labriqueinter.net/
+  tags: app platform
+  meta: build together a free, neutral and decentralised Internet
+
+- id: libreboard
+  name: LibreBoard
+  image: libreboard.png
+  website: http://libreboard.com/
+  tags: app collaboration
+  meta: LibreBoard is an open-source kanban board that let you organize things in cards, and cards in lists. You can use it alone, or with your team and family thanks to our real-time synchronisation feature. Libreboard is a land of liberty and you can implement all sort of workflows on it using tags, comments, member assignation, and many more.
+
+- id: inventaire
+  name: Inventaire
+  image: inventaire.png
+  website: https://inventaire.io/welcome
+  source: https://github.com/maxlath/inventaire
+  tags: app wiki
+  meta: >
+    Interconnected inventories of books powered by wikidata, looking to become a resource mapper powered by open knowledge and the web of linked open data.
+
+- id: maidsafe
+  name: MaidSafe
+  image: maidsafe.png
+  website: http://maidsafe.net/
+  source: 
+  tags: platform network storage
+  meta: >
+    MaidSafe's distributed platform enables the creation of 
+    fast and secure applications that help ensure digital 
+    privacy, security and freedom for all.
+

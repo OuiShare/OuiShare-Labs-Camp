@@ -1,0 +1,71 @@
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 animated hiding" data-animation="fadeInUp">
+            <ul class="social list-inline ">
+              {% if site.withknown_url %}
+              <li>
+                <a class="dribbble" href="{{ site.withknown_url }}" title="Stream">
+                  <i class="fa fa-dribbble fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.facebook_url %}
+              <li>
+                <a class="facebook" href="{{ site.facebook_url }}" title="Facebook">
+                  <i class="fa fa-facebook fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.twitter_username %}
+              <li>
+                <a class="twitter" href="http://www.twitter.com/{{ site.twitter_username }}" title="Twitter">
+                  <i class="fa fa-twitter fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.googleplus_username %}
+              <li>
+                <a class="google-plus" href="http://www.plus.google.com/+{{ site.googleplus_username }}" title="Google+">
+                  <i class="fa fa-google-plus fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.linkedin_url %}
+              <li>
+                <a class="dribbble" href="{{ site.linkedin_url }}" title="Dribbble">
+                  <i class="fa fa-dribbble fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+            <p class="copyright">
+              <a href="http://labs.ouishare.net" target="_blank">OuiShare Labs</a> - connecting actors in the Open Web
+            </p>
+            <p class="copyright"> 
+              <!-- Created by <a href="http://kirilind.me">@kirilind</a> &middot; 
+              Code licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a> &middot; -->
+              Website made with <!--<i class="fa fa-heart fa-1x"></i> from--> <a href="http://www.github.com/halibegic/merlin">Merlin</a>, <a href="http://www.github.com/jekyll/jekyll">Jekyll</a>, <a href="http://fontawesome.io/">FA</a> and <a href="http://ouishare.net"><img src="{{ '/assets/img/osheart-white.svg' | prepend: site.baseurl }}" width="20" hspace="2" /></a> <!-- &middot; 
+              <a href="http://www.github.com/halibegic/merlin">GitHub Project</a> -->
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    {% include scripts.html %}
+
+
+
+    
+    {% if site.google_analytics_id %}
+    <!-- Google Analytics -->
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','{{ site.google_analytics_id }}');ga('send','pageview');
+    </script>
+    {% endif %}

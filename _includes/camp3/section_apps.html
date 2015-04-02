@@ -1,0 +1,75 @@
+    <section id="apps" class="page">
+      <div class="container">
+        <div class="content text-center">
+          <div class="heading">
+            <h2>{{ site.section_apps_title }}</h2>
+            <div class="border"></div>
+            <p>{{ site.section_apps_text }}</p>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12">
+              <div id="appfolio">
+                <ul class="filters list-inline">
+                  <li>
+                    <a class="active" data-filter="*" href="#">All</a>
+                  </li>
+                  <li>
+                    <a data-filter=".platform" href="#">Platform</a>
+                  </li>
+                  <li>
+                    <a data-filter=".service" href="#">Service</a>
+                  </li>
+                  <li>
+                    <a data-filter=".hosting" href="#">Hosting</a>
+                  </li>
+                  <li>
+                    <a data-filter=".community" href="#">Community</a>
+                  </li>
+                </ul>
+              
+
+                <ul class="items list-unstyled clearfix animated hiding" data-animation="fadeInRight">
+
+                {% for project in site.data.projects %}
+                  <li class="item {{ project.tags }} col-lg-3 col-md-4 col-xs-6">
+                    
+                      <img src="{{ site.baseurl }}/i/projects/{{ project.image }}" alt="{{ project.name }}" style="max-width:200px; max-height:120px;">
+                      <h3>{{ project.name }}</h3>
+                      <p>{{ project.meta }}</p>
+                      <ul class="list-inline">
+                        {% if project.website %}
+                        <li>
+                          <a href="{{project.website}}" title="Website">
+                            <i class="fa fa-dribbble"></i>
+                          </a>
+                        </li>
+                        {% endif %}
+                        {% if project.stream_url %}
+                        <li>
+                          <a href="{{ project.stream_url}}" title="Stream">
+                            <i class="fa fa-dribbble"></i>
+                          </a>
+                        </li>
+                        {% endif %}
+                        {% if project.source %}
+                        <li>
+                          <a href="{{ project.source }}" title="GitHub">
+                            <i class="fa fa-github"></i>
+                          </a>
+                        </li>
+                        {% endif %}
+                      </ul>
+                  </li>
+                {% endfor %}
+
+                </ul>
+              </div>
+            </div>
+          </div>
+
+
+          
+        </div>
+      </div>
+    </section>

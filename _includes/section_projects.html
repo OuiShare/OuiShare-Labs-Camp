@@ -1,0 +1,46 @@
+    <section id="work" class="page">
+      <div class="container">
+        <div class="content text-center">
+          <div class="heading">
+            <h2>{{ site.section_projects_title }}</h2>
+            <div class="border"></div>
+            <p>{{ site.section_projects_text }}</p>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <div id="portfolio">
+                <ul class="filters list-inline">
+                  <li>
+                    <a class="active" data-filter="*" href="#">All</a>
+                  </li>
+                  <li>
+                    <a data-filter=".platform" href="#">Platform</a>
+                  </li>
+                  <li>
+                    <a data-filter=".service" href="#">Service</a>
+                  </li>
+                  <li>
+                    <a data-filter=".hosting" href="#">Hosting</a>
+                  </li>
+                  <li>
+                    <a data-filter=".community" href="#">Community</a>
+                  </li>
+                </ul>
+                <ul class="items list-unstyled clearfix animated hiding" data-animation="fadeInRight">
+                  {% for project in site.data.projects %}
+                  <li class="item {{ project.tags }}">
+                    <a href="#">
+                      <img src="{{ site.baseurl }}/i/projects/{{ project.image }}" alt="{{ project.name }}">
+                      <div class="overlay">
+                        <span>{{ project.meta }}</span>
+                      </div>
+                    </a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
