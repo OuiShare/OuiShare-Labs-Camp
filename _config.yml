@@ -32,7 +32,15 @@ markdown: kramdown
 gems:
   - jekyll-redirect-from
 
+# Content types
+collections:
+  workshops:
+    output: true
 
+#Default settings by content types
+defaults: 
+  chapters:
+    layout: camp3_page
 
 
 # sections
