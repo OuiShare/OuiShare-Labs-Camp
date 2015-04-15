@@ -21,6 +21,15 @@
   website: http://standblog.org/blog/
   linkedin_url: https://www.linkedin.com/in/nitot
 
+
+- name: Yannick BURON
+  id: yannick
+  role: goclouder
+  meta: >
+    French entrepreneur building open-source softwares based on Odoo.
+  twitter_username: Yannick_Buron
+  website: https://www.disruptingworld.me/
+
 - name: Primavera De Filippi
   id: primavera
   role: Harvard Berkman Center

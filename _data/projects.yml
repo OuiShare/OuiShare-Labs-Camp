@@ -7,6 +7,13 @@
   tags: platform
   meta: A Personal Cloud you can host, customize and fully control. Sync your contacts, calendars and files between your devices and your personal server. Add your own services to leverage your personal data.
 
+- name: Clouder
+  id: clouder
+  image: clouder.png
+  website: https://www.goclouder.net/
+  tags: platform
+  meta: Clouder is a group of Odoo modules which connect to your servers to easily create and maintain your own hosting infrastructure.
+
 - id: indiewebcamp
   name: IndieWebCamp
   image: indiewebcamp.svg
