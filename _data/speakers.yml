@@ -21,6 +21,13 @@
   website: http://standblog.org/blog/
   linkedin_url: https://www.linkedin.com/in/nitot
 
+- name: Julien RABIER
+  id: taziden
+  role: Internet's Brique
+  meta: >
+    Liberté, Internet - Ilico, The DCP Bay & Fédération F
+  twitter_username: taziden
+  website: https://www.libre-parcours.net/
 
 - name: Yannick BURON
   id: yannick
