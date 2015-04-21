@@ -16,8 +16,12 @@ The clusters should be describing use cases and proposing action in the followin
 
 Labs Camp program team reserves the right to preview and pre-select workshop and project proposals.
 
+##Getting started with the site
 
-
+```
+bundle install
+bundle exec jekyll serve
+```
 
 ### Site credits
 
