@@ -26,30 +26,6 @@
   twitter_username: Yannick_Buron
   website: https://www.disruptingworld.me/
 
-- name: Primavera De Filippi
-  id: primavera
-  role: Harvard Berkman Center
-  meta: >
-    Research fellow at the Berkman Center for 
-    Internet &amp; Society at Harvard Law School, 
-    Primavera is investigating the legal challenges of 
-    “governance-by-design” in online distibuted architectures, 
-    such as Bitcoin, Ethereum etc.
-
-- name: Henry Story
-  id: henry
-  role: Co-Operating Systems
-  meta: >
-    Studied philosophy at Kings College London, and Computing at 
-    Imperial College london. Worked at AltaVista on the BabelFish machine 
-    translation engine, Researched the Semantic Web at Sun Microsystems.
-  twitter_username: bblfish
-  github_username: bblfish
-  stream_url: 
-  linkedin_url:
-  website: http://bblfish.net
-
-
 - name: Erin Jo Richey
   id: erin
   role: Known / Eidyia
@@ -61,9 +37,16 @@
   twitter_username: erinjo
   stream_url: http://erinjo.is/
   linkedin_url:
-  website: 
 
-
+- name: Primavera De Filippi
+  id: primavera
+  role: Harvard Berkman Center
+  meta: >
+    Research fellow at the Berkman Center for 
+    Internet &amp; Society at Harvard Law School, 
+    Primavera is investigating the legal challenges of 
+    “governance-by-design” in online distibuted architectures, 
+    such as Bitcoin, Ethereum etc.
 
 - name: Maxime Lathuilière
   id: maxlath
@@ -81,11 +64,22 @@
   role: Ethereum / Provenance
   meta: 
 
+- name: Henry Story
+  id: henry
+  role: Co-Operating Systems
+  meta: >
+    Studied philosophy at Kings College London, and Computing at 
+    Imperial College london. Worked at AltaVista on the BabelFish machine 
+    translation engine, Researched the Semantic Web at Sun Microsystems.
+  twitter_username: bblfish
+  github_username: bblfish
+  stream_url: 
+  linkedin_url:
+  website: http://bblfish.net
+
 - name: Nick Lambert
   id: nick
-  role: MaidSafe
-  meta: >
-    
+  role: MaidSafe 
   twitter_username: N1ckLambert
   stream_url: 
   linkedin_url:
@@ -102,3 +96,4 @@
   stream_url: 
   linkedin_url:
   website: http://lazooz.org/
+
