@@ -10,17 +10,6 @@
   linkedin_url:
   website: http://benwerd.com
 
-- name: Tristan Nitot
-  id: tristan
-  role: Cozy
-  meta: >
-    Cozy Cloud Chief Product Officer (C3PO).
-    Writing a book about on-line privacy & surveillance.
-    Founded Mozilla Eu. @CNNum member. Biker.
-  twitter_username: nitot
-  website: http://standblog.org/blog/
-  linkedin_url: https://www.linkedin.com/in/nitot
-
 - name: Julien RABIER
   id: taziden
   role: Internet's Brique
