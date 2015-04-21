@@ -33,12 +33,18 @@
               {% endif %}
               {% if site.linkedin_url %}
               <li>
-                <a class="dribbble" href="{{ site.linkedin_url }}" title="Dribbble">
+                <a class="dribbble" href="{{ site.linkedin_url }}" title="LinkedIn">
                   <i class="fa fa-dribbble fa-2x"></i>
                 </a>
               </li>
               {% endif %}
-            </ul>
+              {% if site.github_username %}
+              <li>
+                <a class="github" href="http://www.github.com/{{ site.github_username }}" title="Source code">
+                  <i class="fa fa-github fa-2x"></i>
+                </a>
+              </li>
+              {% endif %}            </ul>
             <p class="copyright">
               <a href="/code-of-conduct/">Code of Conduct</a><br/>
               <a href="http://labs.ouishare.net" target="_blank">OuiShare Labs</a> - connecting actors in the Open Web
