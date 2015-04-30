@@ -128,3 +128,12 @@
     fast and secure applications that help ensure digital 
     privacy, security and freedom for all.
 
+- name: Kendra Initiative
+  id: kendraio
+  image: kendraio.png
+  twitter_username: kendraio
+  website: https://www.kendra.io
+  source: https://github.com/kendraio
+  tags: app platform community
+  meta: Kendra Initiative is a non-profit organisation fostering an Open Distributed Marketplace for Digital Media, and developing Kendra Hub, an Open Source Dashboard Application for Music Makers and Copyright Owners to manage and track their digital media assets and associated credit/rights metadata.
+  
