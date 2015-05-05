@@ -57,6 +57,11 @@
                 <a href="#location">{{ site.section_map_menu }}</a>
               </li>
               {% endif %}
+              {% if site.registration_link %}
+              <li>
+                <a class="external" target="_blank" href="{{ site.registration_link }}">Register Now!</a>
+              </li>
+              {% endif %}
             </ul>
           </div>
         </div>
