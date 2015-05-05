@@ -131,5 +131,6 @@ function handleTweets(tweets) {
         }
         html += '</ul>';
         element.innerHTML = html;
-    }
+  }
 }
+
