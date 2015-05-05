@@ -1,14 +1,14 @@
 /* Additional styles */
 
-
 /* Map from Stylish Portfolio */
 
-.map {
+#map {
     height: 500px;
 }
 
 @media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
+  #map {
+    height: 75%;
+  }
 }
+

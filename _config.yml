@@ -98,6 +98,9 @@ section_contact_title: section_contact_title
 section_contact_text: section_contact_text
 
 # section_map
-section_map:
-section_map_menu:
+section_map: true
+section_map_menu: Location
+map_latitude: 48.87195
+map_longitude: 2.34028
+map_description:  Mozilla, 16 Boulevard Montmartre, 75009 Paris, France
 
