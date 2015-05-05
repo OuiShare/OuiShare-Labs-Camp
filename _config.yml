@@ -42,7 +42,6 @@ defaults:
   chapters:
     layout: camp3_page
 
-
 # sections
 # section_home_slider
 section_home_slider: true
@@ -54,14 +53,11 @@ section_home_slider_text: >
   Participative conference dedicated to 
   open web technologies
   
-
-
 # section_about ->> SPEAKERS
 section_speakers: true
 section_speakers_menu: Who?
 section_speakers_title: Speakers &amp; Participants
 section_speakers_text: 
-
 
 # section_services ->> WORKSHOPS
 section_workshops: true
@@ -85,19 +81,15 @@ section_apps_menu: Projects
 section_apps_title: Participating projects
 section_apps_text: > 
   
-
 # section_clients
 section_clients: 
 section_clients_menu: 
-
-
 
 # section_about ->> TEAM
 section_team: true
 section_team_menu: Team
 section_team_title: Brought to you by
 section_team_text: 
-
 
 # section_contact
 section_contact: 
@@ -108,7 +100,4 @@ section_contact_text: section_contact_text
 # section_map
 section_map: 
 section_map_menu: Location
-
-
-
 
