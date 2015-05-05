@@ -39,18 +39,7 @@
 {% endif %}
 
 {% if site.section_map == true %} 
-  <div id="map"></div>
-<script>
-var map = L.map('map').setView([{{ site.map_latitude }}, {{ site.map_longitude }}], 13);
-
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-
-L.marker([{{ site.map_latitude }}, {{ site.map_longitude }}]).addTo(map)
-  .bindPopup('{{ site.map_description }}')
-  .openPopup();
-</script>
+  {% include section_map.html %}
 {% endif %}
 
 {% if site.section_contact == true %} 
