@@ -9,14 +9,19 @@
         <div class="content text-center">
           <div class="heading">
             {% if page.fai %}
-              <i class="fa {{ page.fai }} fa-5x"></i>
+              <p><i class="fa {{ page.fai }} fa-5x"></i></p>
             {% endif %}
             <h2>{{ page.title }}</h2>
-            <div class="border"></div>
-            {% if page.description %}
-            <p>{{ page.description }}</p>
-            {% endif %}
+            <div class="border"></div>          
           </div>
+          {% if page.description %}
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3" style="padding-top:2em;">
+                  <p><strong>{{ page.description }}</strong></p>
+                  <hr/>
+            </div>
+          </div>
+          {% endif %}       
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
               <div class="text-left">

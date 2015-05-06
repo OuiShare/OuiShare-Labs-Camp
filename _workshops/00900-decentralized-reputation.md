@@ -6,7 +6,7 @@ title: Decentralized reputation and identity
 id: decentralized-reputation
 fai: fa-photo
 description: >
-    Discussing the importance of reputation and identity in today's Internet and the best alternatives to owning one's data, considering the technologis available today.
+    Discussing the importance of reputation and identity in today's Internet and the best alternatives to owning one's data, considering the technologies available today.
 ---
 
 We'll discuss how personal data is involved in defining who we are online and how companies make decisions on our identity based on our data. We'll analyze why it's important for consumers to be the owners of their data and why this is not happening today in most cases (e.g., Facebook and Google own your data). This implies you need to trust companies not looking at your data, changing it, or removing it at some point. 
