@@ -349,11 +349,10 @@ APPFOLIO - Copy of services for alternative projects display
 /*
 Copy #about styles to #speakers
 */
-#speakers .content { padding-bottom: 0 }
+#speakers .content { padding-bottom: 2em }
 #speakers .teammate { 
   margin-top: 60px; 
   margin-bottom: 60px; 
-  float:left;
 }
 #speakers .teammate .bio { padding-top: 10px }
 #speakers .teammate .profile-photo {
