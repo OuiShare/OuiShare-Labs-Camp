@@ -4,7 +4,7 @@ leader_id:
 tags: 
 title: You?
 id: you
-fai: fa-users
+fai: fa-user
 description: >
     Interested in offering a workshop? <br/>
     Write down a title, short description, problems you want to solve, 

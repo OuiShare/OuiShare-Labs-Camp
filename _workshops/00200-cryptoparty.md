@@ -11,6 +11,3 @@ description: >
     to learn!
 ---
 
-Attend a CryptoParty to learn and teach how to use basic cryptography 
-    tools. People bring their computers, mobile devices, and a willingness 
-    to learn!

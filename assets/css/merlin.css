@@ -353,6 +353,7 @@ Copy #about styles to #speakers
 #speakers .teammate { 
   margin-top: 60px; 
   margin-bottom: 60px; 
+  float:left;
 }
 #speakers .teammate .bio { padding-top: 10px }
 #speakers .teammate .profile-photo {

@@ -39,8 +39,12 @@ collections:
 
 #Default settings by content types
 defaults: 
-  chapters:
-    layout: camp3_page
+  - 
+    scope:
+      path: ""
+      type: "workshops"
+    values:
+      layout: camp3_page
 
 # sections
 # section_home_slider

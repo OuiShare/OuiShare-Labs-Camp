@@ -10,5 +10,3 @@ description: >
   How to make the use of Inventaire.io contribute back to wikidata?
 ---
 
-How to work with wikidata and how to extend it to non-encyclopedic entities? 
-  How to make the use of Inventaire.io contribute back to wikidata?

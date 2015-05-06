@@ -10,7 +10,11 @@
             {% for item in site.workshops %}
             <div class="col-lg-4 col-md-6 service animated hiding" data-animation="fadeInUp" data-delay="300">
               <i class="fa {{ item.fai }} fa-5x"></i>
+              {% if item.content %}
+              <h3><a href="{{ item.permalink }}">{{ item.title }}</a></h3>
+              {% else %}
               <h3>{{ item.title }}</h3>
+              {% endif %}
               <p>{{ item.description }}</p>
             </div>
             {% endfor %}

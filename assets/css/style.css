@@ -12,3 +12,6 @@
   }
 }
 
+/* Items float overrides */
+
+#services .service {float: none; display: inline-block; margin: 0 -0.125em}
