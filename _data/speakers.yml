@@ -10,11 +10,17 @@
 
 - name: Julien RABIER
   id: taziden
-  role: Internet's Brique
+  role: The Internet Cube
   meta: >
     Liberté, Internet - Ilico, The DCP Bay & Fédération FFDN.
   twitter_username: taziden
   website: https://www.libre-parcours.net/
+
+- name: Sébastien JEAN
+  id: sebastien-jean
+  role: The Internet Cube
+  meta: petit@peccadilles.net - Internet - LDN, FFDN.
+  twitter_username: petit_quarante2
 
 - name: Yannick BURON
   id: yannick

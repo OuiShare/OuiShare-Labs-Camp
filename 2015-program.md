@@ -14,7 +14,7 @@ This is a draft program. Details may change!
  - 9h   - Doors open, welcoming
  - 9h30 - Introduction and presentation circle
  - 10h30 - talks
-   - Internet's Brick / Julien RABIER
+   - The Internet Cube / Julien RABIER - Sebastien JEAN
    - GoClouder / Yannick
    - LibreBoard / Maxime
    - Linked Data / Henry Story
