@@ -18,7 +18,7 @@ This is a draft program. Details may change!
    - GoClouder / Yannick
    - LibreBoard / Maxime
    - Linked Data / Henry Story
-   - Inventaire / Maxime Lathuilière
+   - governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
    - Traity / José 
  - 13h - Food!
  - 14h - Workshops I
@@ -38,7 +38,7 @@ This is a draft program. Details may change!
  - 9h30 - Workshops III
    - Decentralised sharing working group
  - 11h30 - talks
-   - governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
+   - Inventaire / Maxime Lathuilière
    - Market perspective on social apps / Sofian Meguellati
    - Matan Field 
  - 13h - Food!
