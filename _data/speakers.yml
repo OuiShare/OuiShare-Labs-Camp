@@ -22,6 +22,16 @@
   meta: petit@peccadilles.net - Internet - LDN, FFDN.
   twitter_username: petit_quarante2
 
+- name: Markus Sabadello
+  id: peacekeeper
+  role: FreedomBox / Project Danube / XDI
+  website: http://projectdanube.org/
+  twitter_username: peacekeeper
+  meta: >
+    Early participant of the Federated Social Web effort.
+    Now contributing to FreedomBox and to a shady technology called XDI.
+    Looking forward to meeting old friends and cool new people at OuiShare.
+
 - name: Yannick BURON
   id: yannick
   role: goclouder
