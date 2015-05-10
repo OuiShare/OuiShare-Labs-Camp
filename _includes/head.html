@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     <meta name="author" content="OuiShare Labs">
-    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+    <link rel="webmention" href="http://jekmentions.alhur.es/webmentions/" />
     <link rel="shortcut icon" href="{{ '/assets/ico/favicon.ico' | prepend: site.baseurl }}">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600">
@@ -20,8 +20,12 @@
     <script src="{{ site.baseurl }}/assets/js/html5shiv.js"></script>
     <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
     <![endif]-->
+    <link rel="me" href="http://labs.ouishare.net" />
+    <link rel="me" href="http://twitter.com/ouisharelabs" />
+    <link rel="me" href="mailto:labs@ouishare.net" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
     <link rel="pingback" href="https://webmention.io/kirilind.me/xmlrpc" />
     <link rel="webmention" href="https://webmention.io/kirilind.me/webmention" />
+    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
   </head>
