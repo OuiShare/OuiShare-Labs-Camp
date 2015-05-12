@@ -34,7 +34,7 @@
 
 - name: Yannick BURON
   id: yannick
-  role: goclouder
+  role: Clouder
   meta: >
     French entrepreneur building open-source softwares based on Odoo.
   twitter_username: Yannick_Buron
