@@ -5,7 +5,7 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" property="og:description" />
     <meta name="author" content="OuiShare Labs" />
     <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" property="og:title" />
-    <meta content="{{ '/assets/img/labscamp.png' | prepend: site.baseurl }}" property="og:image" />
+    <meta content="{{ '/assets/img/labscamp.png' | prepend: site.url }}" property="og:image" />
     <link rel="webmention" href="http://jekmentions.alhur.es/webmentions/" />
     <link rel="shortcut icon" href="{{ '/assets/ico/favicon.ico' | prepend: site.baseurl }}">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
