@@ -36,7 +36,7 @@ This is a draft program. Details may change!
 
  - 9h doors open
  - 9h30 - Workshops III
-   - Decentralised sharing working group
+   - Decentralised sharing community group
  - 11h30 - talks
    - Inventaire / Maxime Lathuilière
    - Market perspective on social apps / Sofian Meguellati
