@@ -15,7 +15,7 @@ This is a draft program. Details may change!
  - 9h30 - Introduction and presentation circle
  - 10h30 - talks
    - The Internet Cube / Julien RABIER - Sebastien JEAN
-   - GoClouder / Yannick
+   - Clouder / Yannick
    - LibreBoard / Maxime
    - Linked Data / Henry Story
    - governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
