@@ -15,11 +15,11 @@ This is a draft program. Details may change!
  - 9h30 - Introduction and presentation circle
  - 10h30 - talks
    - The Internet Cube / Julien RABIER - Sebastien JEAN
-   - Clouder / Yannick
+   - Clouder / Yannick BURON
    - LibreBoard / Maxime
+   - Decentralized reputation and identity / José Ignacio Fernández
    - Linked Data / Henry Story
-   - governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
-   - Traity / José 
+   - Governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
  - 13h - Food!
  - 14h - Workshops I
    - Application Packaging (YuNoHost - Clouder - IndieHosters - SandStorm)

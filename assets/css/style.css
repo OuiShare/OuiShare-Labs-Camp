@@ -17,3 +17,11 @@
 #services .service, #speakers .teammate  {float: none; display: inline-block; vertical-align: top;}
 #services .service {margin: 0 -0.125em;}
 #speakers .teammate {margin: 20px -0.125em 40px;}
+
+.full a {color: #428BCA;}
+
+/* webmentions */
+
+.h-feed img {max-width: 100%; padding:0; margin:0;}
+.h-feed cite, .h-feed p {padding:0;margin:0;}
+.h-feed {border-top:1px solid #eee;padding-top: 10px;padding-bottom: 10px;}

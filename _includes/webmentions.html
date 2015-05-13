@@ -1,0 +1,28 @@
+
+
+{% for webmention in site.webmentions %}
+  {% if webmention.relative_path contains page.url %}
+<h4>Comments</h4>
+  {% endif %}
+{% endfor %}
+
+{% for webmention in site.webmentions %}
+  {% if webmention.relative_path contains page.url %}
+    <div class="row h-feed">
+      <article class="h-entry" itemprops="comment">
+      <div class="col-md-1 col-sm-3">
+        <header class="h-card">
+          {% if webmention.author_image %}
+            <a href="{{ webmention.author_url }}" class="p-author"><img src="{{ webmention.author_image }}" alt="{{ webmention.author_name }}" class="u-photo"></a>
+          {% endif %} 
+        </header>           
+      </div>
+      <div class="col-md-11 col-sm-9">
+        <cite class="h-cite">via <a href="{{ webmention.author_url }}" class="p-author">{% if webmention.via %}{{ webmention.via }}{% else %}{{ webmention.author_name }}{% endif %}</a> on <a href="{{ webmention.source }}" class="u-url"><time class="dt-published">{{ webmention.date | date_to_string }}</time></a></cite>
+        <div class="p-name p-summary e-content">{{ webmention.content | markdownify }}</div>
+      </div>
+      </article>
+    </div>
+  {% endif %}
+{% endfor %}
+

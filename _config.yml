@@ -110,5 +110,12 @@ map_latitude: 48.87195
 map_longitude: 2.34028
 map_description:  Mozilla, 16 Boulevard Montmartre, 75009 Paris, France
 
+# section_register
+section_register: true
+section_register_title: Registration
+section_register_text: >
+  
+
+
 registration_link: https://github.com/OuiShare/OuiShare-Labs-Camp/blob/gh-pages/_data/participants.yml
 

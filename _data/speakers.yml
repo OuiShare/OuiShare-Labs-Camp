@@ -72,21 +72,6 @@
   stream_url: https://michielbdejong.com/
   meta: Excited about unhosted web apps and indie web. Setting up @IndieHosters. Berlin/Nomadic
 
-
-
-- name: Ben Werdmüller
-  id: ben
-  role: Known / Elgg
-  meta: >
-    Co-founder and CEO of Known, helping everyone publish to their own site. 
-    He has worked on open software for over a decade, co-founded Elgg, 
-    and was the first Geek in Residence at the Edinburgh Festivals.
-  twitter_username: benwerd
-  stream_url: http://werd.io/
-  linkedin_url:
-  website: http://benwerd.com
-
-
 - name: Maxime Lathuilière
   id: maxlath
   role: Inventaire.io / P2P-RM / OuiShare Labs
@@ -98,17 +83,6 @@
   github_username: maxlath
   website: https://inventaire.io/
 
-- name: Erin Jo Richey
-  id: erin
-  role: Known / Eidyia
-  meta: > 
-    Erin is Chief Experience Officer and co-founder of Known. 
-    Previously, she was an independent UX 
-    consultant, working on the design, architecture, and usability of 
-    products for startups and enterprises like eBay, Microsoft, and Intel. 
-  twitter_username: erinjo
-  stream_url: http://erinjo.is/
-  linkedin_url:
 
 - name: Jutta Steiner
   id: jutta
@@ -128,14 +102,6 @@
   linkedin_url:
   website: http://bblfish.net
 
-- name: Nick Lambert
-  id: nick
-  role: MaidSafe 
-  twitter_username: N1ckLambert
-  stream_url: 
-  linkedin_url:
-  website: http://t.co/bOtTamA7KV
-
 - name: Matan Field
   id: matan
   role: La Zooz
@@ -148,3 +114,27 @@
   linkedin_url:
   website: http://lazooz.org/
 
+- name: Ben Werdmüller
+  id: ben
+  role: Known / Elgg
+  meta: >
+    Co-founder and CEO of Known, helping everyone publish to their own site. 
+    He has worked on open software for over a decade, co-founded Elgg, 
+    and was the first Geek in Residence at the Edinburgh Festivals.
+  twitter_username: benwerd
+  stream_url: http://werd.io/
+  linkedin_url:
+  website: http://benwerd.com
+
+
+- name: Erin Jo Richey
+  id: erin
+  role: Known / Eidyia
+  meta: > 
+    Erin is Chief Experience Officer and co-founder of Known. 
+    Previously, she was an independent UX 
+    consultant, working on the design, architecture, and usability of 
+    products for startups and enterprises like eBay, Microsoft, and Intel. 
+  twitter_username: erinjo
+  stream_url: http://erinjo.is/
+  linkedin_url:

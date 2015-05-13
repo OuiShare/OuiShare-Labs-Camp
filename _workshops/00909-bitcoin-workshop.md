@@ -3,8 +3,9 @@ permalink: /2015/bitcoin-workshop/
 leader_id: caterina
 tags: bitcoin
 fai: fa-bitcoin
+title: Bitcoin workshop
 description: >
-  Explore the world of Bitcoin by learning how to set up a wallet and buy BTC.
+  Have you wanted to explore the world of Bitcoin but don't know where to start? This is the workshop for you. You'll learn how to choose and set up a wallet, add security with 2-factor authentification, and buy BTC.
 ---
 
 Have you wanted to explore the world of Bitcoin but don't know where to start? This is the workshop for you. You'll learn how to choose and set up a wallet, add security with 2-factor authentification, and buy BTC. You'll also set up a ChangeTip account and immediately receive BTC and be able to send it.

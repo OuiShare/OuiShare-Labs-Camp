@@ -117,6 +117,15 @@
   meta: >
     Interconnected inventories of books powered by wikidata, looking to become a resource mapper powered by open knowledge and the web of linked open data.
 
+- id: ecobytes
+  name: Ecobytes
+  image: ecobytes.png
+  website: http://co-munity.net/ecobytes
+  source: 
+  tags: platform hosting service
+  meta: >
+    Non-profit, community-supported and -oriented IT collective with hosting and services for activists, researchers, artists, individuals and the solidary economy.
+
 - id: maidsafe
   name: MaidSafe
   image: maidsafe.png
