@@ -11,7 +11,7 @@ title: Program
 
 <h2>Day 1 / Monday, May 18th</h2>
 
-<table class="program">
+<table class="program-1">
   <thead>
     <tr>
       <th width="10%">&nbsp;</th>
