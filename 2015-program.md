@@ -7,9 +7,9 @@ title: Program
 
 &nbsp;
 
-This is a draft program. Details may change!
+<p>This is a draft program. Details may change!</p>
 
-##Day 1 / Monday, May 18th
+<h2>Day 1 / Monday, May 18th</h2>
 
 <table class="program">
   <thead>
@@ -171,11 +171,12 @@ This is a draft program. Details may change!
 
  {% endcomment %}
 
-###OuiShare Labs open meetup 18h30 - 22h
+<h3>OuiShare Labs open meetup 18h30 - 22h</h3>
+
 
 [Details and registering on Meetup.com &raquo;](http://www.meetup.com/OuiShareLabs/events/222326906/)
 
-##Day 2 / Tuesday, May 19th
+<h2>Day 2 / Tuesday, May 19th</h2>
 
 
 
