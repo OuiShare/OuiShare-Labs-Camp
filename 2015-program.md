@@ -120,100 +120,17 @@ title: Program
 </table>
 
 
-{% comment %}
 
-{:.program}
-|    | Space 1 | Space 2 | Space 3 |
-| -- | ------- | ------- | ------- |
-| 9h | doors open, welcoming  |
-| 9h30 | Introduction and presentation circle  |
-| | Talks |
-| 10h15 | PeerStorage / André Reinald |
-| 10h30 | The Internet Cube / Julien Rabier  |
-| 10h45 | Decentralized reputation and identity / José Ignacio Fernández |
-| 11h | Clouder / Yannick Buron |  
-| 11h15 | Cloud, personal / Tristan Nitot |
-| 11h30 | LibreBoard / Maxime Quandalle |
-| 11h45 | Governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi  |
-| 12h | [Social Linked Data](/2015/ld/) / Henry Story |
-| 12h15 | Ethereum &amp; Provenance / Jutta Steiner |
-| 12h30 | [Inventaire &amp; Wikidata](/2015/wikidata/) / Maxime Lathuilière  |
-| 12h45 |   |
-| 13h | Food! |
-| 14h | [Bitcoin world](/2015/bitcoin-workshop/) | [Federated Wiki]() | [Migration format](/2015/migformats/) |
-| 16h | [Decentralized reputation and identity](/2015/decentralized-reputation/) | [Wikidata](/2015/wikidata/) | [AppPack]() |
-| 18h | end, rearranging the room for open labs |
-
-
-
-
-
-
-
-
- - 9h   - Doors open, welcoming
- - 9h30 - Introduction and presentation circle
- - 10h30 - talks
-   - The Internet Cube / Julien RABIER - Sebastien JEAN
-   - Clouder / Yannick BURON
-   - LibreBoard / Maxime
-   - Decentralized reputation and identity / José Ignacio Fernández
-   - Linked Data / Henry Story
-   - Governance-by-design &amp; legal challenges in online distributed architectures / Primavera De Filippi
- - 12h45 - pitching workshops &amp; creating the agenda
- - 13h - Food!
- - 14h - Workshops I
-   - Application Packaging (YuNoHost - Clouder - IndieHosters - SandStorm)
-   - Decentralized identity (Traity)
- - 16h - Workshops II
-   - Migration format
- - 18h - End of the day, rearranging the room for open meetup
-
- {% endcomment %}
 
 <h3>OuiShare Labs open meetup 18h30 - 22h</h3>
 
 
-[Details and registering on Meetup.com &raquo;](http://www.meetup.com/OuiShareLabs/events/222326906/)
+<a href="http://www.meetup.com/OuiShareLabs/events/222326906/">Details and registering on Meetup.com &raquo;</a>
 
 <h2>Day 2 / Tuesday, May 19th</h2>
 
 
 
-{% comment %}
-
-{:.program}
-|    | Space 1 | Space 2 | Space 3 |
-| -- | ------- | ------- | ------- |
-| 9h | doors open, welcoming  |
-| 9h30 | [Connected Refugees](/2015/connected-refugees/)  | [DSWG](/2015/dswg/) | Open spot |
-| | Talks |
-| 11h30 | Firefox OS / Candice Serran |
-| 11h45 | Unhosted web apps / Michiel de Jong |
-| 12h | BuddyUp: P2P helpdesk / Hermina Condei |
-| 12h15 | / Matan Field |
-| 12h30 | Ecobytes: Community hosting / Jon Richter |
-| 12h45 | FreedomBox / Markus Sabadello |
-| 13h | Food! |
-| 14h | [Open Value Network in media industry](/2015/kendraio/) | [SoLid](/2015/ld/) | [IndieWeb](/2015/indiewebcamp/) |
-| 16h | Camp wrap-up &amp; feedback presentations |
-| 17h - 18h | last networking &amp; cleaning up ;) |
-
-
- - 9h doors open
- - 9h30 - Workshops III
-   - Decentralised sharing community group
- - 11h30 - talks
-   - Inventaire / Maxime Lathuilière
-   - Market perspective on social apps / Sofian Meguellati
-   - Matan Field 
- - 13h - Food!
- - 14h Workshops IV
-   - IndieWeb
- - 16h Camp wrap-up &amp; feedback presentations
- - 17h - 18h last networking &amp; cleaning up ;)
-
-{% endcomment %}
 
 <table class="program">
   <thead>
