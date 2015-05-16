@@ -8,6 +8,16 @@
     Writing a book about on-line privacy &amp; surveillance. 
     Founded Mozilla Europe. @CNNum member. Biker.
 
+- name: Primavera De Filippi
+  id: primavera
+  role: Harvard Berkman Center
+  meta: >
+    Research fellow at the Berkman Center for 
+    Internet &amp; Society at Harvard Law School, 
+    Primavera is investigating the legal challenges of 
+    “governance-by-design” in online distibuted architectures, 
+    such as Bitcoin, Ethereum etc.
+
 - name: Julien RABIER
   id: taziden
   role: The Internet Cube
@@ -40,15 +50,13 @@
   twitter_username: Yannick_Buron
   website: https://www.disruptingworld.me/
 
-- name: Primavera De Filippi
-  id: primavera
-  role: Harvard Berkman Center
+- name: Caterina Rindi
+  id: caterina
+  role: Swarm
   meta: >
-    Research fellow at the Berkman Center for 
-    Internet &amp; Society at Harvard Law School, 
-    Primavera is investigating the legal challenges of 
-    “governance-by-design” in online distibuted architectures, 
-    such as Bitcoin, Ethereum etc.
+    Community Manager at Swarm
+  twitter_username: CaterinaRindi
+  website: http://swarm.fund
 
 - name: José Ignacio Fernández
   id: jose
