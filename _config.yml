@@ -72,8 +72,9 @@ section_workshops_title: Workshops &amp; discussion clusters
 section_workshops_text: > 
   The third edition of OuiShare Labs Camp brings together 
   app and platform creators and service providers 
-  to discuss and work on ways to empower web users and 
-  give them back the ownership of their private data. 
+  <br/>to discuss and work on ways to empower web users and 
+  give them back the ownership of their private data. <br/>
+  <a href="/2015/program/"><b>See the detailed program &raquo;</b></a>
 
 # section_work ->> PROJECTS
 section_projects: 

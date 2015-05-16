@@ -1,20 +1,23 @@
 
-<h4>Labs Camp mentioned elsewhere</h4>
+<h2>Talking about Labs Camp</h2>
 
 {% for webmention in site.webmentions %}
 
     <div class="row h-feed">
       <article class="h-entry" itemprops="comment">
-      <div class="col-md-2 col-sm-3">
+      <div class="col-md-1 col-sm-3">
         <header class="h-card">
           {% if webmention.author_image %}
             <a href="{{ webmention.author_url }}" class="p-author"><img src="{{ webmention.author_image }}" alt="{{ webmention.author_name }}" class="u-photo"></a>
           {% endif %} 
         </header>           
       </div>
-      <div class="col-md-10 col-sm-9">
-        <cite class="h-cite">via <a href="{{ webmention.author_url }}" class="p-author">{% if webmention.via %}{{ webmention.via }}{% else %}{{ webmention.author_name }}{% endif %}</a> on <a href="{{ webmention.source }}" class="u-url"><time class="dt-published">{{ webmention.date | date_to_string }}</time></a></cite>
-        <div class="p-name p-summary e-content">{{ webmention.content | markdownify }}</div>
+      <div class="col-md-11 col-sm-9">
+        <cite class="h-cite">via <a href="{{ webmention.author_url }}" class="p-author">{% if webmention.via %}{{ webmention.via }}{% else %}{{ webmention.author_name }}{% endif %}</a>
+
+          {% if webmention.date %} on <a href="{{ webmention.source }}" class="u-url"><time class="dt-published">{{ webmention.date | date_to_string }}</time></a>{% endif %}</cite>
+        
+        {% comment %}<div class="p-name p-summary e-content">{{ webmention.content | markdownify }}</div>{% endcomment %}
       </div>
       </article>
     </div>
