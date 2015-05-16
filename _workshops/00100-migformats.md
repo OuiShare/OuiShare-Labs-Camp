@@ -11,4 +11,18 @@ description: >
 ---
 
 
- 
+
+
+<hr>
+
+### Session documentation
+
+*Please add your session notes, resources, and other relevant information here!*
+
+#### Notes 
+
+[Link to etherpad session page &raquo;](https://ouishare.etherpad.mozilla.org/oslabs15-migformats)
+
+#### Resources list
+
+*Links to pages, information, ...*

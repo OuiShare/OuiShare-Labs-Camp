@@ -13,3 +13,17 @@ Have you wanted to explore the world of Bitcoin but don't know where to start? T
 Attendees will need to bring a connected device (laptop, tablet, cell phone) with a browser and wi-fi.
 
 A copy of this workshop will be also held at the [OuiShare Fest](http://sched.co/31Z3).
+
+<hr>
+
+### Session documentation
+
+*Please add your session notes, resources, and other relevant information here!*
+
+#### Notes 
+
+[Link to etherpad session page &raquo;](https://ouishare.etherpad.mozilla.org/oslabs15-bitcoin-workshop)
+
+#### Resources list
+
+*Links to pages, information, ...*

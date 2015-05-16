@@ -44,6 +44,20 @@
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
               <div class="text-left">
+                <hr />
+                <h3>All workshops</h3>
+                <ul class="list-inline">
+                {% for page in site.workshops %}
+                <li><a class="bg-info" href="{{page.permalink}}">{{page.title}}</a></li>
+                {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>          
+
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+              <div class="text-left">
                 {% if page.path contains 'about' %}
                 {% include webmentions_all.html %}
                 {% else %}
