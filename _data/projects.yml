@@ -121,7 +121,7 @@
   name: Ecobytes
   image: ecobytes.png
   website: http://co-munity.net/ecobytes
-  source: 
+  source:
   tags: platform hosting service
   meta: >
     Non-profit, community-supported and -oriented IT collective with hosting and services for activists, researchers, artists, individuals and the solidary economy.
@@ -152,7 +152,7 @@
   twitter_username: transformap
   website: http://transformap.co
   source: https://github.com/transformap
-  tags: techno-social architecture visualisation commons transition openstreetmap
+  tags: community platform
   meta: TransforMap is a techno-social architecture to visualise the commons transition.
 
 - name: allmende.io
@@ -161,5 +161,5 @@
   twitter_username: transforlab
   website: http://allmende.io
   source: https://github.com/allmende
-  tags: allmende commons services web
+  tags: hosting service
   meta: allmende.io provides web services for mutual self-organization.
