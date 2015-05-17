@@ -18,7 +18,7 @@
   name: IndieWebCamp
   image: indiewebcamp.svg
   website: http://indiewebcamp.com/
-  source: 
+  source:
   tags: community
   meta: The IndieWeb is a people-focused alternative to the 'corporate web'. Your content is yours. When you post something on the web, it should belong to you, not a corporation.
 
@@ -50,7 +50,7 @@
   name: FreedomBox
   image: freedombox.png.svg
   website: http://freedomboxfoundation.org/
-  source: 
+  source:
   tags: platform device home-server peer-to-peer
   meta: The FreedomBox is a personal server for your home, designed to give you back control over your identity, personal data, and communication.
 
@@ -121,7 +121,7 @@
   name: Ecobytes
   image: ecobytes.png
   website: http://co-munity.net/ecobytes
-  source: 
+  source:
   tags: platform hosting service
   meta: >
     Non-profit, community-supported and -oriented IT collective with hosting and services for activists, researchers, artists, individuals and the solidary economy.
@@ -130,11 +130,11 @@
   name: MaidSafe
   image: maidsafe.png
   website: http://maidsafe.net/
-  source: 
+  source:
   tags: platform network storage
   meta: >
-    MaidSafe's distributed platform enables the creation of 
-    fast and secure applications that help ensure digital 
+    MaidSafe's distributed platform enables the creation of
+    fast and secure applications that help ensure digital
     privacy, security and freedom for all.
 
 - name: Kendra Initiative
@@ -145,4 +145,21 @@
   source: https://github.com/kendraio
   tags: app platform community
   meta: Kendra Initiative is a non-profit organisation fostering an Open Distributed Marketplace for Digital Media, and developing Kendra Hub, an Open Source Dashboard Application for Media Makers and Copyright Owners to manage and track their digital media assets and associated credit/rights metadata.
-  
+
+- name: TransforMap
+  id: transformap
+  image: transformap.svg
+  twitter_username: transformap
+  website: http://transformap.co
+  source: https://github.com/transformap
+  tags: community platform
+  meta: TransforMap is a techno-social architecture to visualise the commons transition.
+
+- name: allmende.io
+  id: allmende
+  image: allmende.svg
+  twitter_username: transforlab
+  website: http://allmende.io
+  source: https://github.com/allmende
+  tags: hosting service
+  meta: allmende.io provides web services for mutual self-organization.
