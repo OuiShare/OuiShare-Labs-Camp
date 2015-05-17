@@ -3,19 +3,19 @@
   role: CozyCloud
   linkedin_url: https://www.linkedin.com/in/nitot
   twitter_username: nitot
-  meta: > 
-    Cozy Cloud Chief Product Officer (C3PO). 
-    Writing a book about on-line privacy &amp; surveillance. 
+  meta: >
+    Cozy Cloud Chief Product Officer (C3PO).
+    Writing a book about on-line privacy &amp; surveillance.
     Founded Mozilla Europe. @CNNum member. Biker.
 
 - name: Primavera De Filippi
   id: primavera
   role: Harvard Berkman Center
   meta: >
-    Research fellow at the Berkman Center for 
-    Internet &amp; Society at Harvard Law School, 
-    Primavera is investigating the legal challenges of 
-    “governance-by-design” in online distibuted architectures, 
+    Research fellow at the Berkman Center for
+    Internet &amp; Society at Harvard Law School,
+    Primavera is investigating the legal challenges of
+    “governance-by-design” in online distibuted architectures,
     such as Bitcoin, Ethereum etc.
 
 - name: Julien RABIER
@@ -62,13 +62,13 @@
   id: jose
   role: Traity
   meta: >
-    MSc in Telecommunications Engineering and PhD in Intelligent Systems 
-    from the Technical University of Madrid. As a web developer, 
-    has participated in multiple technological projects until the 
-    launch of Traity, a startup that measures people reputation to 
+    MSc in Telecommunications Engineering and PhD in Intelligent Systems
+    from the Technical University of Madrid. As a web developer,
+    has participated in multiple technological projects until the
+    launch of Traity, a startup that measures people reputation to
     ensure safety in the Internet.
-  twitter_username: 
-  stream_url: 
+  twitter_username:
+  stream_url:
   linkedin_url:
   website: http://www.traity.com
 
@@ -84,13 +84,12 @@
   id: maxlath
   role: Inventaire.io / P2P-RM / OuiShare Labs
   meta: >
-    Walking the path toward an economy empowering citizens with open knowledge. 
+    Walking the path toward an economy empowering citizens with open knowledge.
     • Prototyping Inventaire.io • #VRM #WebOfData #wikidata #JS
   twitter_username: maxlath
   website: http://maxlath.eu/
   github_username: maxlath
   website: https://inventaire.io/
-
 
 - name: Jutta Steiner
   id: jutta
@@ -110,12 +109,12 @@
   id: henry
   role: Co-Operating Systems
   meta: >
-    Studied philosophy at Kings College London, and Computing at 
-    Imperial College london. Worked at AltaVista on the BabelFish machine 
+    Studied philosophy at Kings College London, and Computing at
+    Imperial College london. Worked at AltaVista on the BabelFish machine
     translation engine, Researched the Semantic Web at Sun Microsystems.
   twitter_username: bblfish
   github_username: bblfish
-  stream_url: 
+  stream_url:
   linkedin_url:
   website: http://bblfish.net
 
@@ -123,35 +122,47 @@
   id: matan
   role: La Zooz
   meta: >
-    Theoretical physicist and entrepreneur, dedicated to connect 
-    science and technology with society and humanities, 
+    Theoretical physicist and entrepreneur, dedicated to connect
+    science and technology with society and humanities,
     economics and the environment.
-  twitter_username: 
-  stream_url: 
+  twitter_username:
+  stream_url:
   linkedin_url:
   website: http://lazooz.org/
 
 - name: Ben Werdmüller
   id: ben
-  role: Known / Elgg
+  role: Known / Elgg (Remote)
   meta: >
-    Co-founder and CEO of Known, helping everyone publish to their own site. 
-    He has worked on open software for over a decade, co-founded Elgg, 
+    Co-founder and CEO of Known, helping everyone publish to their own site.
+    He has worked on open software for over a decade, co-founded Elgg,
     and was the first Geek in Residence at the Edinburgh Festivals.
   twitter_username: benwerd
   stream_url: http://werd.io/
   linkedin_url:
   website: http://benwerd.com
 
-
 - name: Erin Jo Richey
   id: erin
-  role: Known / Eidyia
-  meta: > 
-    Erin is Chief Experience Officer and co-founder of Known. 
-    Previously, she was an independent UX 
+  role: Known / Eidyia (Remote)
+  meta: >
+    Erin is Chief Experience Officer and co-founder of Known.
+    Previously, she was an independent UX
     consultant, working on the design, architecture, and usability of 
-    products for startups and enterprises like eBay, Microsoft, and Intel. 
+    products for startups and enterprises like eBay, Microsoft, and Intel.
   twitter_username: erinjo
   stream_url: http://erinjo.is/
   linkedin_url:
+
+- name: Jon Richter
+  id: jon
+  role: Allmende / Ecobytes / TransforMap
+  meta: >
+    Computer sciences and humanities.
+    Applying computational grammar on social semiotics.
+    semantic network design
+  twitter_username: almereyda
+  github_username: almereyda
+  stream_url: http://blog.jonrichter.de
+  linkedin_url: https://de.linkedin.com/in/richterjon
+  website: http://almereyda.de/
