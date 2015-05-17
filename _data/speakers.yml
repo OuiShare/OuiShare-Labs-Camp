@@ -8,22 +8,6 @@
     Writing a book about on-line privacy &amp; surveillance.
     Founded Mozilla Europe. @CNNum member. Biker.
 
-- name: Julien RABIER
-  id: taziden
-  role: Internet's Brique
-  meta: >
-    Liberté, Internet - Ilico, The DCP Bay & Fédération FFDN.
-  twitter_username: taziden
-  website: https://www.libre-parcours.net/
-
-- name: Yannick BURON
-  id: yannick
-  role: goclouder
-  meta: >
-    French entrepreneur building open-source softwares based on Odoo.
-  twitter_username: Yannick_Buron
-  website: https://www.disruptingworld.me/
-
 - name: Primavera De Filippi
   id: primavera
   role: Harvard Berkman Center
@@ -33,6 +17,46 @@
     Primavera is investigating the legal challenges of
     “governance-by-design” in online distibuted architectures,
     such as Bitcoin, Ethereum etc.
+
+- name: Julien RABIER
+  id: taziden
+  role: The Internet Cube
+  meta: >
+    Liberté, Internet - Ilico, The DCP Bay & Fédération FFDN.
+  twitter_username: taziden
+  website: https://www.libre-parcours.net/
+
+- name: Sébastien JEAN
+  id: sebastien-jean
+  role: The Internet Cube
+  meta: petit@peccadilles.net - Internet - LDN, FFDN.
+  twitter_username: petit_quarante2
+
+- name: Markus Sabadello
+  id: peacekeeper
+  role: FreedomBox / Project Danube / XDI
+  website: http://projectdanube.org/
+  twitter_username: peacekeeper
+  meta: >
+    Early participant of the Federated Social Web effort.
+    Now contributing to FreedomBox and to a shady technology called XDI.
+    Looking forward to meeting old friends and cool new people at OuiShare.
+
+- name: Yannick BURON
+  id: yannick
+  role: Clouder
+  meta: >
+    French entrepreneur building open-source softwares based on Odoo.
+  twitter_username: Yannick_Buron
+  website: https://www.disruptingworld.me/
+
+- name: Caterina Rindi
+  id: caterina
+  role: Swarm
+  meta: >
+    Community Manager at Swarm
+  twitter_username: CaterinaRindi
+  website: http://swarm.fund
 
 - name: José Ignacio Fernández
   id: jose
@@ -56,21 +80,6 @@
   stream_url: https://michielbdejong.com/
   meta: Excited about unhosted web apps and indie web. Setting up @IndieHosters. Berlin/Nomadic
 
-
-
-- name: Ben Werdmüller
-  id: ben
-  role: Known / Elgg
-  meta: >
-    Co-founder and CEO of Known, helping everyone publish to their own site.
-    He has worked on open software for over a decade, co-founded Elgg,
-    and was the first Geek in Residence at the Edinburgh Festivals.
-  twitter_username: benwerd
-  stream_url: http://werd.io/
-  linkedin_url:
-  website: http://benwerd.com
-
-
 - name: Maxime Lathuilière
   id: maxlath
   role: Inventaire.io / P2P-RM / OuiShare Labs
@@ -81,18 +90,6 @@
   website: http://maxlath.eu/
   github_username: maxlath
   website: https://inventaire.io/
-
-- name: Erin Jo Richey
-  id: erin
-  role: Known / Eidyia
-  meta: >
-    Erin is Chief Experience Officer and co-founder of Known.
-    Previously, she was an independent UX
-    consultant, working on the design, architecture, and usability of
-    products for startups and enterprises like eBay, Microsoft, and Intel.
-  twitter_username: erinjo
-  stream_url: http://erinjo.is/
-  linkedin_url:
 
 - name: Jutta Steiner
   id: jutta
@@ -112,14 +109,6 @@
   linkedin_url:
   website: http://bblfish.net
 
-- name: Nick Lambert
-  id: nick
-  role: MaidSafe
-  twitter_username: N1ckLambert
-  stream_url:
-  linkedin_url:
-  website: http://t.co/bOtTamA7KV
-
 - name: Matan Field
   id: matan
   role: La Zooz
@@ -131,6 +120,30 @@
   stream_url:
   linkedin_url:
   website: http://lazooz.org/
+
+- name: Ben Werdmüller
+  id: ben
+  role: Known / Elgg
+  meta: >
+    Co-founder and CEO of Known, helping everyone publish to their own site.
+    He has worked on open software for over a decade, co-founded Elgg,
+    and was the first Geek in Residence at the Edinburgh Festivals.
+  twitter_username: benwerd
+  stream_url: http://werd.io/
+  linkedin_url:
+  website: http://benwerd.com
+
+- name: Erin Jo Richey
+  id: erin
+  role: Known / Eidyia
+  meta: >
+    Erin is Chief Experience Officer and co-founder of Known.
+    Previously, she was an independent UX
+    consultant, working on the design, architecture, and usability of 
+    products for startups and enterprises like eBay, Microsoft, and Intel.
+  twitter_username: erinjo
+  stream_url: http://erinjo.is/
+  linkedin_url:
 
 - name: Jon Richter
   id: jon

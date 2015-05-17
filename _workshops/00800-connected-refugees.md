@@ -30,3 +30,18 @@ Developing these projects, we are facing some questions and obstacles, namely:
 - How can we **make 1 information accessible in 27 languages**? Translate all, use design, refer to people who can translate.
 
 The workshop is led by Singa France.
+
+
+<hr>
+
+### Session documentation
+
+*Please add your session notes, resources, and other relevant information here!*
+
+#### Notes 
+
+[Link to etherpad session page &raquo;](https://ouishare.etherpad.mozilla.org/oslabs15-connected-refugees)
+
+#### Resources list
+
+*Links to pages, information, ...*

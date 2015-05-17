@@ -4,7 +4,7 @@
 
   <body>
   	{% include navbar_page.html %}
-    <section id="services" class="page">
+    <section id="services" class="page full">
       <div class="container">
         <div class="content text-center">
           <div class="heading">
@@ -21,7 +21,17 @@
                   <hr/>
             </div>
           </div>
-          {% endif %}       
+          {% endif %}  
+
+          {% if page.path contains 'program' %} 
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <div class="text-left">
+              {{ content }}
+              </div>
+            </div>
+          </div>
+          {% else %}    
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
               <div class="text-left">
@@ -29,6 +39,34 @@
               </div>
             </div>
           </div>
+          {% endif %}
+
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+              <div class="text-left">
+                <hr />
+                <h3>All workshops</h3>
+                <ul class="list-inline">
+                {% for page in site.workshops %}
+                <li><a class="bg-info" href="{{page.permalink}}">{{page.title}}</a></li>
+                {% endfor %}
+                </ul>
+              </div>
+            </div>
+          </div>          
+
+          <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+              <div class="text-left">
+                {% if page.path contains 'about' %}
+                {% include webmentions_all.html %}
+                {% else %}
+                {% include webmentions.html %}
+                {% endif %}
+              </div>
+            </div>
+          </div>
+
           <div class="row">
             <div class="col-md-6 col-md-offset-3">
               <div class="text-center">

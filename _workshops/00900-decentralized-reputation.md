@@ -14,3 +14,19 @@ We'll discuss how personal data is involved in defining who we are online and ho
 The workshop will be about discussing the best approaches to decentralizing your identity. We'll propose several alternatives to achieve this and discuss the pros and cons of each one and the available technologies that are available today.
 
 The workshop is led by José Ignacio Fernández (PhD in Intelligent Systems), CTO and Co-founder of Traity.
+
+
+
+<hr>
+
+### Session documentation
+
+*Please add your session notes, resources, and other relevant information here!*
+
+#### Notes 
+
+[Link to etherpad session page &raquo;](https://ouishare.etherpad.mozilla.org/oslabs15-decentralized-reputation)
+
+#### Resources list
+
+*Links to pages, information, ...*

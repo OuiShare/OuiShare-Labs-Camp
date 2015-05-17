@@ -32,4 +32,14 @@
     attempting to fix the Internet with Peer Storage.
   website: http://peerstorage.org
 
+- name: Joachim Lohkamp
+  id: joachim
+  image: joachim.jpg
+  role: Documentation
+  meta: >
+    Connector for OuiShare Labs and Berlin, co-founder of Jolocom.
+  website: http://jolocom.com
+  email: jl@jolocom.com
+  twitter_username: JockelLohkamp
+  facebook_url: https://www.facebook.com/joachim.lohkamp
 
