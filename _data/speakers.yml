@@ -94,7 +94,16 @@
 - name: Jutta Steiner
   id: jutta
   role: Ethereum / Provenance
-  meta:
+  meta: >
+    Dr. Jutta Steiner has been overseeing the security audit and 
+    supporting the integration of open source project Ethereum 
+    since late fall 2014. Together 
+    with Jessi Baker, she's now building a platform at Project 
+    Provenance to make supply chains more transparent using
+    Ethereum's blockchain technology.
+  twitter_username: tajukahe
+  website: http://provenance.org/
+  website: http://ethereum.org/
 
 - name: Henry Story
   id: henry
@@ -123,7 +132,7 @@
 
 - name: Ben Werdmüller
   id: ben
-  role: Known / Elgg
+  role: Known / Elgg (Remote)
   meta: >
     Co-founder and CEO of Known, helping everyone publish to their own site.
     He has worked on open software for over a decade, co-founded Elgg,
@@ -135,7 +144,7 @@
 
 - name: Erin Jo Richey
   id: erin
-  role: Known / Eidyia
+  role: Known / Eidyia (Remote)
   meta: >
     Erin is Chief Experience Officer and co-founder of Known.
     Previously, she was an independent UX

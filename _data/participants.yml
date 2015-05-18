@@ -19,7 +19,7 @@
   repo: https://github.com/allmende/allmende.github.io
   blog: http://blog.jonrichter.de
   goal: http://transformap.co
-  picture: http://jonrichter.de/media/2014avatar.jp
+  picture: http://jonrichter.de/media/2014avatar.jpg
   twitter: https://twitter.com/almereyda
 
 - name: James
@@ -32,4 +32,14 @@
   blog: https://hroy.eu/
   twitter: https://twitter.com/hugoroyd
 
+- name: M4Dz
+  github_page: https://github.com/m4dz
+  repo: https://github.com/m4dz/m4dz.net
+  blog: http://m4dz.net
+  picture: http://m4dz.net/assets/images/m4dz.jpg
+  twitter: https://twitter.com/m4d_z
+
 - name: you
+
+
+

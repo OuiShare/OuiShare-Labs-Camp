@@ -84,6 +84,20 @@
             {% endfor %}
 
           </div>
+          <div class="heading">
+            <h3>Also participating</h3>
+            <div class="border"></div>
+          </div>
+          <div class="row">
+            <p>&nbsp;</p>
+            <p>(During the Labs Camp, this part will get formatted with pictures and other info you provided :)</p>
+            <ul class="list-inline">
+            {% for member in site.data.participants %}
+                <li><a class="bg-info" href="{{member.github_page}}" target="_blank">{{member.name}}</a></li>                
+            {% endfor %}
+            </ul>
+          </div>
+
         </div>
       </div>
     </section>
