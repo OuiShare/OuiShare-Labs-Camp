@@ -32,6 +32,20 @@
     attempting to fix the Internet with Peer Storage.
   website: http://peerstorage.org
 
+- name: Jocelyn Ibarra
+  id: jocelyn
+  role: Community
+  twitter_username: jossbot
+  meta: >
+    Community Connector for OuiShare Global, building relationships inside and around Labs.
+
+- name: Gordana Halavanja
+  id: gordana
+  role: Food Magic
+  meta: >
+    Economist making magic with food for us this year
+
+
 - name: Joachim Lohkamp
   id: joachim
   image: joachim.jpg
@@ -42,4 +56,5 @@
   email: jl@jolocom.com
   twitter_username: JockelLohkamp
   facebook_url: https://www.facebook.com/joachim.lohkamp
+
 

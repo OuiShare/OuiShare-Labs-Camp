@@ -14,9 +14,9 @@
 
 /* Items float overrides */
 
-#services .service, #speakers .teammate  {float: none; display: inline-block; vertical-align: top;}
+#services .service, #speakers .teammate, #about .teammate  {float: none; display: inline-block; vertical-align: top;}
 #services .service {margin: 0 -0.125em;}
-#speakers .teammate {margin: 20px -0.125em 40px;}
+#speakers .teammate, #about .teammate  {margin: 20px -0.125em 40px;}
 
 .full a {color: #428BCA;}
 
