@@ -1,10 +1,5 @@
-
-
-{% for webmention in site.webmentions %}
-  {% if webmention.relative_path contains page.url %}
 <h2>Comments</h2>
-  {% endif %}
-{% endfor %}
+
 
 {% for webmention in site.webmentions %}
   {% if webmention.relative_path contains page.url %}
