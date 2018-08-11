@@ -1,7 +1,7 @@
 - name: Auli Kütt
   id: auli
   image: auli.jpg
-  role: Coordination
+  role: Coordination &amp; Website
   meta: >
     Decentralization and IndieWeb (h)activist, OuiShare Labs Connector.
   twitter_username: kirilind
