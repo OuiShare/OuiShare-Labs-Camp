@@ -1,6 +1,6 @@
 ---
 layout: camp3_page
-permalink: /2015/about/
+permalink: /about/
 title: About
 ---
 
